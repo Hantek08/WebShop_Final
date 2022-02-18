@@ -1,0 +1,11 @@
+Blogg Database-webshop prosjekt 
+
+10 dager igjen for innlevering. 
+dag 1: vi har satt opp databasen, men det er flere funksjoner som ikke er gjort enda. Jeg føler jeg har mer ansvar enn min gurppkompis.
+Jeg har tenkt mye på denne prosjekten siden vi fikk det. Jeg tenker mye på hvordan vi kan levere en fullfugerende app med bra funskjon. I dag tenker jeg koble databasen til 
+EF i visual. Jeg skal fosøke jobbe mer og stresse midnre. 
+
+Dapper query: 1. kobles opp til databasen. 2. sende sql commando. 3.få en liste fra database 4. returenerer vi det til vårt hoved program 
+
+Jeg er så frustrert, nettleseren jeg har flere viktige faner oppe har slyttet og må restarte PCen. Jeg kjenner jeg har lite tid på meg og føler at oppgaven venter på meg. Mye 
+å gjøre på kort tid. Jeg har hitill googlet på ulike diagramer og nå må jeg begynne å kode. Jeg skal restarte PCen og sette opp Azur 
